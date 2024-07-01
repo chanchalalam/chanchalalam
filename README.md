@@ -1,7 +1,7 @@
 ## Hi, I'm Chanchal!
 
 # 💫 About Me:
-🔭 An aspiring Data Scientist, learning new stuff everyday<br>🎓 Studying B.Tech. Computer Science and Engineering - Data Science, ML and AI at Lovely Professional University<br>💞 I am looking to collaborate on Computer Vision and Deep Learning projects.<br>💬 Ask me about ... Data Analytics, Machine Learning, Deep Learning, NLP, Computer Vision<br>🌱 I’m currently learning MLOps<br>📫 Reach out to me at: chanchalalam24@gmail.com<br>⚡ Fun fact: ... I love GulaabJamun!
+🔭 An aspiring Data Scientist, learning new stuff everyday<br>🎓 Studying B.Tech. Computer Science and Engineering - Data Science, ML and AI at Lovely Professional University<br>💞 I am looking to collaborate on Computer Vision and Deep Learning projects <br>💬 Ask me about ... Data Analytics, Machine Learning, Deep Learning, NLP, Computer Vision<br>🌱 I’m currently learning MLOps<br>📫 Reach out to me at: chanchalalam24@gmail.com<br>⚡ Fun fact: ... I love GulaabJamun!
 
 
 ## 🌐 Socials:
