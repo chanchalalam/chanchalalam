@@ -4,6 +4,10 @@
 🔭 An aspiring Data Scientist, learning new stuff everyday<br>🎓 Studying B.Tech. Computer Science and Engineering - Data Science, ML and AI at Lovely Professional University<br>💞 I am looking to collaborate on Computer Vision and Deep Learning projects <br>💬 Ask me about ... Data Analytics, Machine Learning, Deep Learning, NLP, Computer Vision<br>🌱 I’m currently learning MLOps<br>📫 Reach out to me at: chanchalalam24@gmail.com<br>⚡ Fun fact: ... I love GulaabJamun!
 
 
+
+[![](https://visitcount.itsvg.in/api?id=chanchalalam&icon=0&color=10)](https://visitcount.itsvg.in)
+
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chanchalalam786/)  [![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?logo=kaggle&logoColor=white)](https://www.kaggle.com/chanchal24)  [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white)](https://leetcode.com/u/chanchalalam24/)  [![CodeChef](https://img.shields.io/badge/CodeChef-%235B4638.svg?logo=codechef&logoColor=white)](https://www.codechef.com/users/anyaa_24)  
 
@@ -14,6 +18,11 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=chanchalalam&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=chanchalalam&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=chanchalalam&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 ---
-[![](https://visitcount.itsvg.in/api?id=chanchalalam&icon=0&color=10)](https://visitcount.itsvg.in)
+
+
 
