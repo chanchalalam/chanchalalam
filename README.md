@@ -13,13 +13,9 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=chanchalalam&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=chanchalalam&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-
-[![](https://visitcount.itsvg.in/api?id=chanchalalam&icon=0&color=10)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=chanchalalam&icon=10&color=1)](https://visitcount.itsvg.in)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=chanchalalam&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-
-
-
