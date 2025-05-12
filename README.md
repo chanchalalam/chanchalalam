@@ -15,7 +15,4 @@
 
 [![](https://visitcount.itsvg.in/api?id=chanchalalam&icon=10&color=1)](https://visitcount.itsvg.in)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=chanchalalam&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 ---
