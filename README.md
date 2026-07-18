@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Chanchal Alam</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer;Generative+AI+Developer;Building+Production+LLM+Applications;AI+Agents+%7C+RAG+%7C+MLOps;Kaggle+Notebook+Master" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=900&lines=AI%2FML+Engineer;Machine+Learning+Engineer;Data+Scientist;Generative+AI+Engineer;LLM+%26+RAG+Developer;AI+Agents+Developer;Building+Production-Ready+AI+Applications;Kaggle+Notebook+Master" />
 </p>
 
 <h3 align="center">
