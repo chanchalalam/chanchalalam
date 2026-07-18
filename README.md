@@ -1,12 +1,10 @@
 ## Hi, I'm Chanchal!
 
 # 💫 About Me:
-🔭 Currently working as a Software Engineer – AI/ML at Tenarai<br>
+🔭 Currently working as an AI/ML Engineer at Tenarai<br>
 🤖 Passionate about Generative AI, AI Agents, LLMs, RAG, Machine Learning, and Data Science<br>
 🎓 B.Tech in Data Science (AI & ML) from Lovely Professional University<br>
 🏆 Kaggle Notebook Master | Building production-ready AI applications and intelligent systems<br>
-💞 Open to collaborating on AI, LLM, RAG, MLOps, and Machine Learning projects<br>
-🌱 Currently exploring MLOps, AI Agents, and scalable LLM applications<br>
 📫 Reach me at: **chanchalalam00@gmail.com**<br>
 ⚡ Fun fact: I believe the best way to learn AI is by building real-world projects 🚀
 
