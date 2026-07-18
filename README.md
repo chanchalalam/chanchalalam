@@ -1,7 +1,14 @@
 ## Hi, I'm Chanchal!
 
 # 💫 About Me:
-🔭 An aspiring Data Scientist, learning new stuff everyday<br>🎓 Studying B.Tech. Computer Science and Engineering - Data Science, ML and AI at Lovely Professional University<br>💞 I am looking to collaborate on Computer Vision and Deep Learning projects <br>💬 Ask me about ... Data Analytics, Machine Learning, Deep Learning, NLP, Computer Vision<br>🌱 I’m currently learning MLOps<br>📫 Reach out to me at: chanchalalam24@gmail.com<br>⚡ Fun fact: ... I love GulaabJamun!
+🔭 Currently working as a Software Engineer – AI/ML at Tenarai<br>
+🤖 Passionate about Generative AI, AI Agents, LLMs, RAG, Machine Learning, and Data Science<br>
+🎓 B.Tech in Data Science (AI & ML) from Lovely Professional University<br>
+🏆 Kaggle Notebook Master | Building production-ready AI applications and intelligent systems<br>
+💞 Open to collaborating on AI, LLM, RAG, MLOps, and Machine Learning projects<br>
+🌱 Currently exploring MLOps, AI Agents, and scalable LLM applications<br>
+📫 Reach me at: **chanchalalam00@gmail.com**<br>
+⚡ Fun fact: I believe the best way to learn AI is by building real-world projects 🚀
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chanchalalam786/)  [![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?logo=kaggle&logoColor=white)](https://www.kaggle.com/chanchal24)  [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white)](https://leetcode.com/u/chanchalalam24/)  [![CodeChef](https://img.shields.io/badge/CodeChef-%235B4638.svg?logo=codechef&logoColor=white)](https://www.codechef.com/users/anyaa_24)  
