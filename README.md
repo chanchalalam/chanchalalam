@@ -29,16 +29,6 @@ Passionate about building production-ready AI solutions that create real-world i
 
 ---
 
-# 🏆 Achievements
-
-- 🥇 **Kaggle Notebook Master**
-- 💼 **AI/ML Engineer at Tenarai**
-- 🏢 **Former AI/ML Trainee at Infogain**
-- 🚀 Developed and deployed **LLM-powered Chatbots, AI Agents & RAG Applications**
-- 📄 Built production-ready AI solutions using **FastAPI, LangChain, Docker & Vector Databases**
-
----
-
 # 💻 Tech Stack
 
 ### 🤖 AI & Machine Learning
