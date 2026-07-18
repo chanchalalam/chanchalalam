@@ -1,14 +1,11 @@
 # 👋 Hi, I'm Chanchal Alam!
 
-## 🚀 About Me
-
-💼 **AI/ML Engineer at Tenarai** with 1+ year of experience building production-ready AI applications.<br>
-🤖 Passionate about **Generative AI, AI Agents, LLMs, RAG, Machine Learning, Deep Learning, NLP, and MLOps**.<br>
-🎓 B.Tech in **Data Science (AI & ML)** from Lovely Professional University.<br>
-🏆 **Kaggle Notebook Master** | Building scalable AI solutions with modern ML and LLM frameworks.<br>
-📫 **Email:** chanchalalam00@gmail.com<br>
-💡 *"Building AI that solves real-world problems."*
-
+# 💫 About Me: 🔭 Currently working as an AI/ML Engineer at Tenarai<br>
+🤖 Passionate about Generative AI, AI Agents, LLMs, RAG, Machine Learning, and Data Science<br> 
+🎓 B.Tech in Data Science (AI & ML) from Lovely Professional University<br> 
+🏆 Kaggle Notebook Master | Building production-ready AI applications and intelligent systems<br> 
+📫 Reach me at: **chanchalalam00@gmail.com**<br> 
+⚡ Fun fact: I believe the best way to learn AI is by building real-world projects 🚀
 ---
 
 ## 🌐 Connect with Me
@@ -22,43 +19,27 @@
 
 # 💻 Tech Stack
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+### 🤖 Artificial Intelligence & Machine Learning
+`Machine Learning` • `Deep Learning` • `Generative AI` • `Large Language Models (LLMs)` • `Retrieval-Augmented Generation (RAG)` • `AI Agents` • `Natural Language Processing (NLP)` • `Computer Vision` • `Prompt Engineering` • `MLOps`
 
-### AI / ML
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+### 🧠 Frameworks & Libraries
+`LangChain` • `LangGraph` • `Hugging Face Transformers` • `PyTorch` • `TensorFlow` • `Keras` • `Scikit-learn` • `OpenCV` • `MediaPipe` • `Pandas` • `NumPy` • `SciPy` • `Matplotlib` • `Plotly`
 
-### Generative AI & MLOps
-`LangChain` • `Hugging Face` • `LLMs` • `RAG` • `AI Agents` • `FastAPI` • `Flask` • `Docker` • `MLflow` • `Vector Databases (FAISS)` • `Git`
+### ⚡ Backend & Deployment
+`FastAPI` • `Flask` • `Django` • `Spring Boot` • `REST APIs` • `Docker` • `MLflow` • `Uvicorn`
 
-### Data Science
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge&logo=scipy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+### 🗄️ Databases & Vector Stores
+`MySQL` • `SQLite` • `Firebase` • `FAISS` • `ChromaDB` • `Vector Databases`
 
-### Cloud & Tools
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+### 💻 Programming Languages
+`Python` • `Java` • `R` • `SQL`
 
----
+### ☁️ Cloud & Developer Tools
+`AWS` • `Git` • `GitHub` • `GitHub Copilot` • `Anaconda` • `Jupyter Notebook` • `VS Code` • `Linux`
 
-# 📊 GitHub Stats
+### 📊 Data Engineering & Analytics
+`PySpark` • `Power BI` • `Tableau` • `Microsoft Excel` • `RapidMiner` • `Informatica`
 
-![](https://github-readme-stats.vercel.app/api?username=chanchalalam&theme=dracula&show_icons=true&include_all_commits=true&count_private=true)
+### 🛠️ Enterprise & CMS
+`Adobe Experience Manager (AEM)` • `JSON` • `Tailwind CSS`
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=chanchalalam&theme=dracula)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=chanchalalam&layout=compact&theme=dracula)
-
----
-
-![](https://visitcount.itsvg.in/api?id=chanchalalam&icon=10&color=1)
