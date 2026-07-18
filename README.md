@@ -1,24 +1,24 @@
 <h1 align="center">Hi 👋, I'm Chanchal Alam</h1>
-<h3 align="center">AI/ML Engineer | Generative AI | LLMs | RAG | Kaggle Notebook Master</h3>
+<h3 align="center">AI/ML Engineer | Generative AI | AI Agents | LLMs | RAG | Kaggle Notebook Master</h3>
 
 <p align="center">
-Building intelligent AI systems that solve real-world problems 🚀
+Passionate about building production-ready AI solutions that create real-world impact.
 </p>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-- 💼 **AI/ML Engineer** at **Tenarai**
-- 🎓 **B.Tech in Data Science (AI & ML)** | Lovely Professional University
+- 💼 Currently working as an **AI/ML Engineer at Tenarai**
+- 🎓 B.Tech in **Data Science (AI & ML)** from **Lovely Professional University**
 - 🏆 **Kaggle Notebook Master**
-- 🤖 Building **LLM Applications, AI Agents, RAG Pipelines & Production AI Systems**
-- 🌱 Currently exploring **Agentic AI, MLOps & Scalable LLM Applications**
-- 📧 **Email:** chanchalalam00@gmail.com
+- 🤖 Building **LLM Applications, AI Agents, RAG Pipelines & Enterprise AI Solutions**
+- 🌱 Currently exploring **Agentic AI, MLOps, Multi-Agent Systems & LLM Fine-tuning**
+- 📫 **Email:** **chanchalalam00@gmail.com**
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <p align="left">
 <a href="https://www.linkedin.com/in/chanchalalam786/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -29,36 +29,58 @@ Building intelligent AI systems that solve real-world problems 🚀
 
 ---
 
-## 💻 Tech Stack
+# 🏆 Achievements
+
+- 🥇 **Kaggle Notebook Master**
+- 💼 **AI/ML Engineer at Tenarai**
+- 🏢 **Former AI/ML Trainee at Infogain**
+- 🚀 Developed and deployed **LLM-powered Chatbots, AI Agents & RAG Applications**
+- 📄 Built production-ready AI solutions using **FastAPI, LangChain, Docker & Vector Databases**
+
+---
+
+# 💻 Tech Stack
 
 ### 🤖 AI & Machine Learning
-`Generative AI` • `LLMs` • `RAG` • `AI Agents` • `Machine Learning` • `Deep Learning` • `NLP` • `Computer Vision` • `Prompt Engineering` • `MLOps`
+`Generative AI` • `AI Agents` • `LLMs` • `RAG` • `Machine Learning` • `Deep Learning` • `NLP` • `Computer Vision` • `Prompt Engineering` • `MLOps`
 
-### 🧠 Frameworks
-`LangChain` • `LangGraph` • `Hugging Face` • `PyTorch` • `TensorFlow` • `Scikit-learn` • `OpenCV` • `FastAPI` • `Flask` • `Spring Boot`
+### 🧠 Frameworks & Libraries
+`LangChain` • `LangGraph` • `Hugging Face` • `PyTorch` • `TensorFlow` • `Scikit-learn` • `Keras` • `OpenCV` • `MediaPipe`
 
-### 🗄️ Data & Deployment
-`Python` • `Java` • `SQL` • `PySpark` • `MySQL` • `SQLite` • `FAISS` • `ChromaDB` • `Docker` • `MLflow` • `Git` • `AWS`
+### ⚙️ Backend & Deployment
+`Python` • `FastAPI` • `Flask` • `Django` • `Spring Boot` • `REST APIs` • `Docker` • `MLflow` • `Git`
+
+### 🗄️ Databases & Data Engineering
+`SQL` • `MySQL` • `SQLite` • `Firebase` • `FAISS` • `ChromaDB` • `PySpark`
 
 ### 📊 Analytics & Tools
-`Pandas` • `NumPy` • `Power BI` • `Tableau` • `Excel` • `GitHub Copilot` • `AEM`
+`Pandas` • `NumPy` • `SciPy` • `Matplotlib` • `Plotly` • `Power BI` • `Tableau` • `Excel` • `AWS` • `GitHub Copilot` • `AEM`
 
 ---
 
-## 📈 GitHub Stats
+# 🚀 Featured Projects
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=chanchalalam&show_icons=true&theme=dracula" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=chanchalalam&theme=dracula" height="165"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chanchalalam&layout=compact&theme=dracula"/>
-</p>
+| 🚀 Project | 💡 Description | 🛠️ Tech Stack |
+|------------|---------------|---------------|
+| 📄 Document Research Chatbot | Enterprise chatbot with citation-backed responses using RAG | LangChain, LLMs, FAISS, FastAPI |
+| 🧠 Mental Health AI Assistant | AI-powered conversational assistant | Python, Flask, LLMs |
+| 👕 OutfitX | Fashion recommendation & image understanding platform | TensorFlow, CNN, OpenCV |
+| 🩺 Multi-Disease Prediction | ML-powered disease prediction system | Python, Scikit-learn |
+| 🎥 YouTube Notes Generator | Convert YouTube videos into structured notes using LLMs | Gemini API, Python |
 
 ---
 
-<p align="center">
-<i>"Turning ideas into intelligent AI solutions."</i> 🚀
-</p>
+# 🎯 Currently Working On
 
+- 🤖 AI Agents & Multi-Agent Systems
+- 🧠 Generative AI Applications
+- 📚 Retrieval-Augmented Generation (RAG)
+- 🚀 MLOps & Production AI
+- ⚡ Scalable LLM Applications
+- ☁️ Cloud-native AI Deployments
+
+---
+
+# 💭 Philosophy
+
+> **"I believe AI should solve real-world problems, be scalable, and create measurable impact—not just impressive demos."** 🚀
