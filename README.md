@@ -83,4 +83,4 @@ Passionate about building production-ready AI solutions that create real-world i
 
 # 💭 Philosophy
 
-> **"I believe AI should solve real-world problems, be scalable, and create measurable impact—not just impressive demos."** 🚀
+> **"I believe AI should solve real-world problems, be scalable, and create measurable impact-not just impressive demos."** 🚀
