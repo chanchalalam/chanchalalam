@@ -1,14 +1,3 @@
-<h1 align="center">Hi 👋, I'm Chanchal Alam</h1>
-
-<h3 align="center">
-AI/ML Engineer • Generative AI • AI Agents • LLMs • RAG • Kaggle Notebook Master
-</h3>
-
-<p align="center">
-Building production-ready AI applications with Machine Learning, LLMs, and MLOps.
-</p>
-
----
 
 <h1 align="center">Hi 👋, I'm Chanchal Alam</h1>
 
@@ -75,8 +64,6 @@ Building production-ready AI applications that solve real-world business problem
 | 🔗 **Multi-Disease Prediction System** | Machine Learning-based healthcare prediction | Python • Scikit-learn |
 | 🔗 **YouTube Notes Generator** | Converts YouTube videos into structured notes | Gemini API • Python |
 
-> 💡 *Replace the project names with GitHub repository links once they're public.*
-
 ---
 
 # 💻 Tech Stack
@@ -108,15 +95,6 @@ Building production-ready AI applications that solve real-world business problem
 - ⚡ Production LLM Pipelines
 - 🚀 MLOps Workflows
 - ☁️ Cloud-Native AI Solutions
-
----
-
-# 📜 Certifications
-
-- 🏅 Kaggle Notebook Master
-- 📘 Generative AI: Working with Large Language Models
-- ⚙️ MLOps Essentials: Model Development & Integration
-- 📝 Introduction to NLP Using R
 
 ---
 
