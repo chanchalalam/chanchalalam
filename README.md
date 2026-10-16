@@ -37,7 +37,7 @@ Building production-ready AI applications that solve real-world business problem
 - 🏆 **Kaggle Notebook Master**
 - 💡 Passionate about **Generative AI, AI Agents, LLMs, RAG, NLP, Computer Vision & MLOps**
 - 🌱 Continuously learning and building production-grade AI systems
-- 📧 **Email:** **chanchalalam00@gmail.com**
+- 📧 **Email:** **chanchalalam24@gmail.com**
 
 ---
 
